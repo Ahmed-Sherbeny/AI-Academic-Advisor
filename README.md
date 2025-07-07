@@ -1,5 +1,5 @@
 # AI-Academic-Advisor
-## Simulation of a personalized academic advising experience using Reinforced Learning (RL) and Graph Modelling
+## Simulation of a personalized academic advising experience using Reinforced Learning (RL) and Graph Modelling.
 
 ## Setup 
 ### 1- Install networkx, matplotlib, numpy as they were used for calculations and data visualization.
